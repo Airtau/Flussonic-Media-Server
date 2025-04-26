@@ -94,7 +94,7 @@ web interface on the page
       http://localhost
 
 
-# "Active Flussonic License Key is Below (Life Time)":
+# "Active Flussonic License Key is Below":
 
  License Key 1
 
