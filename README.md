@@ -118,7 +118,7 @@ To install updates, simply update the packages and install Flussonic:
       apt-get -y install flussonic
       service flussonic restart
 
-
+# That is totally free || এটা সম্পূর্ণ বিনামূল্যে। Это совершенно бесплатно.
 
 Our Group:
 <div id="badges">
