@@ -1,13 +1,10 @@
-<div id="badges" style="font-size: 204 px; font-weight: bold;">
-  Our Group:
-  <a href="https://t.me/Flussonics">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-    
-# ******Hello Viewers  ! 🌟 You can support me by sending Stars.******
+#  Installing Flussonic Media Server || How Installing Flussonic Streaming Server 
 
-# How Installing Flussonic Streaming Server 
+
+# Hello Viewers  ! 🌟 You can support me by sending Stars
+
+
+
 
 
 Installing Flussonic Media Server¶
@@ -39,6 +36,8 @@ Supported OS versions: Ubuntu LTS 22.04, 20.04 & Etc
 web interface on the page 
 
     http://localhost
+
+ ![Flussonic Start Page](https://flussonic.com/doc/img/admin3/start_page.png)
 
 
 
@@ -118,7 +117,7 @@ To install updates, simply update the packages and install Flussonic:
       apt-get -y install flussonic
       service flussonic restart
 
-# That is totally free || এটা সম্পূর্ণ বিনামূল্যে। Это совершенно бесплатно.
+
 
 Our Group:
 <div id="badges">
