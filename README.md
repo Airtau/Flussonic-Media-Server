@@ -1,11 +1,11 @@
-Our Group:
-<div id="badges">
+<div id="badges" style="font-size: 204 px; font-weight: bold;">
+  Our Group:
   <a href="https://t.me/Flussonics">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
+</div>
     
-# ******Hi Everyone! 🌟 You can support me by sending Stars******
+# ******Hello Viewers  ! 🌟 You can support me by sending Stars.******
 
 # How Installing Flussonic Streaming Server 
 
