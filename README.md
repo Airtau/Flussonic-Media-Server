@@ -125,8 +125,24 @@ Our Group:
   <a href="https://t.me/Flussonics">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
 
+---
+
+## 📞 Contact & Support
+
+- 📢 **Join Our Telegram Community:** [Click Here](https://t.me/Flussonics)
+- ✉️ **Support & Queries:** [Email Us](mailto:sohag1192@gmail.com)
+
+---
+
+<div align="center">
+  <strong>© 2021-25 👨🏻‍💻 Sohag </strong>
+</div>
+
+  
+## ⭐ Star History & Popularity
+
+[![Star History Chart](https://api.star-history.com/svg?repos=mitthu786/TS-JioTV,sohag1192/Flussonic-Media-Server&type=Date)](https://www.star-history.com/#mitthu786/TS-JioTV&sohag1192/Flussonic-Media-Server&Date)
 
 
 
