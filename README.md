@@ -3,7 +3,10 @@
 
 # Hello Viewers  ! 🌟 You can support me by sending Stars
 
+## 📞 Contact & Support
 
+- 📢 **Join Our Telegram Community:** [Click Here](https://t.me/Flussonics)
+- ✉️ **Support & Queries:** [Email Us](mailto:sohag1192@gmail.com)
 
 
 
@@ -140,10 +143,9 @@ Our Group:
 
   
 ## ⭐ Star History & Popularity
+## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mitthu786/TS-JioTV,sohag1192/Flussonic-Media-Server&type=Date)](https://www.star-history.com/#mitthu786/TS-JioTV&sohag1192/Flussonic-Media-Server&Date)
-
-
+[![Star History Chart](https://api.star-history.com/svg?repos=sohag1192/Flussonic-Media-Server&type=Date)](https://www.star-history.com/#sohag1192/Flussonic-Media-Server&Date)
 
 
 <a target="_blank" href="https://smallcounter.com/conline/1737616389/"><img alt="visitors by country counter" border="0" src="https://smallcounter.com/online/fcc.php?id=1737616389"></a>
