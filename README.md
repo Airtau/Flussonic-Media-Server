@@ -1,3 +1,5 @@
+[![Hits](https://hits.sh/github.com/sohag1192/Flussonic-Media-Server.svg?view=today-total&style=for-the-badge)](https://hits.sh/github.com/sohag1192/Flussonic-Media-Server/)
+
 #  Installing Flussonic Media Server || How Installing Flussonic Streaming Server 
 
 
