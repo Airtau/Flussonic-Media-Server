@@ -8,9 +8,9 @@
 ## 📞 Contact & Support
 
 - 📢 **Join Our Telegram Community:** [Click Here](https://t.me/Flussonics)
+- 📢 **Join Our Telegram Channels:** [Click Here](https://t.me/flussonic0)
 - ✉️ **Support & Queries:** [Email Us](mailto:sohag1192@gmail.com)
 
-https://t.me/flussonic0
 
 Installing Flussonic Media Server¶
 You can install Flussonic Media Server on Ubuntu, CentOS/RedHat
@@ -89,28 +89,28 @@ To activate Flussonic Media Server:
 
 1) Start the server by running the following command in the terminal:
 
-       service flussonic start
+        service flussonic start
 
 #Open in browser
 
 web interface on the page 
-      
-      http://localhost
+    
+    http://localhost
 
 
 # "Active Flussonic License Key is Below":
 
- License Key 🗝️ 🔐 
+License Key 🗝️ 🔐 
            
-        l4|AbOFvyPq7piW0ub_MfFUL2|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
+    l4|AbOFvyPq7piW0ub_MfFUL2|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
 
 License keys 🗝️ 
 
-         l4|rXM4FdbzMJif4xUUwkaoi2|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3 
+    l4|rXM4FdbzMJif4xUUwkaoi2|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3 
     
  License Key 🗝️ 🔐 
  
-    l4|8Ku8ypPgOUySHysCdkFHW0|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
+    14|8Ku8ypPgOUySHysCdkFHW0|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
  License Key 🗝️ 🔐 
  
     l4|rXM4FdbzMJif4xUUwkaoi2|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
@@ -119,8 +119,8 @@ License keys 🗝️
     l4|aO4RO2ZdLEzHAdH46n6iD0|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
 
 License key 🔐 🗝️
-
-      l4|WXHMkfXhFHeNmvDz-M_tb4|r6BzpmVPpjgKpn9IunpFp5lLbCZOp3
+    
+    l4|WXHMkfXhFHeNmvDz-M_tb4|r6BzpmVPpjgKpn9IunpFp5lLbCZOp3
 
 # Updating Flussonic
 
