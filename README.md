@@ -106,7 +106,7 @@ License Key 🗝️ 🔐
 
 License keys 🗝️ 
 
-    l4|rXM4FdbzMJif4xUUwkaoi2|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3 
+    l4|rXM4FdbzMJif4xUUwkaoi2|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
     
  License Key 🗝️ 🔐 
  
