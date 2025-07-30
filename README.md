@@ -22,7 +22,7 @@ http://flussonic.com/doc/installation
 
 Supported architectures: amd64, arm64.
 
-Supported OS versions: Ubuntu LTS 22.04, 20.04 & Etc
+Supported OS versions: Ubuntu LTS 24.04, 22.04, 20.04 & Etc
 
 # Quickly Step to Install Install Flussonic Media Server using the apt tool
 
