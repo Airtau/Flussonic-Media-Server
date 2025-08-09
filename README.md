@@ -111,9 +111,7 @@ License keys 🗝️
 License Key 🗝️ 🔐 
  
     14|8Ku8ypPgOUySHysCdkFHW0|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
-License Key 🗝️ 🔐 
- 
-    l4|rXM4FdbzMJif4xUUwkaoi2|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
+
 License Key 🗝️ 🔐 
   
     l4|aO4RO2ZdLEzHAdH46n6iD0|r6BzpmVPpjgKpn9IunpFp6lLbCZOp3
